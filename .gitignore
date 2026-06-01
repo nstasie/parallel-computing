@@ -15,3 +15,10 @@ Release/
 *.user
 *.suo
 ipch/
+
+# Maven
+**/target/
+**/*.class
+
+# VS Code
+.vscode/
